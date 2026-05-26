@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=LogIn
+comment1.params=
+comment1.target=LogIn()
+comment2.params=e\ p
+comment2.target=LogIn(java.lang.String,\ java.lang.String)
+comment3.params=e
+comment3.target=void\ setEmail(java.lang.String)
+comment4.params=p
+comment4.target=void\ setPassword(java.lang.String)
+comment5.params=e\ p
+comment5.target=void\ setSignUp(java.lang.String,\ java.lang.String)
+comment6.params=e\ p
+comment6.target=void\ setLogIn(java.lang.String,\ java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getEmail()
+comment8.params=
+comment8.target=java.lang.String\ getPassword()
+comment9.params=e\ p
+comment9.target=boolean\ verifyLogin(java.lang.String,\ java.lang.String)
+numComments=10

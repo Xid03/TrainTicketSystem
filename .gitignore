@@ -1,0 +1,5 @@
+*.class
+*.ctxt.bak
+*.java~
+.DS_Store
+Thumbs.db
